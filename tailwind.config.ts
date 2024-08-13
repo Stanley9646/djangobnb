@@ -7,6 +7,7 @@ const config: Config = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    important: true,
     extend: {
       colors: {
         'airbnb': '#ff385c',
